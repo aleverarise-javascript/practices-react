@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed');
+
+.Card{
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.Cards-img{
+    border-radius: 80px;
+    width: 125px;
+    height: auto;
+}
+
+.Card-text{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    margin-right: 3px;
+}
